@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simplifisteve
 - 👀 I’m interested in programming, computers, cars, and travel.
-- 🌱 I’m currently learning web development, Linux, and iOS development.
+- 🌱 I’m currently learning JavaScript, dApp, Solidity, and NFTs.
 - 💞️ I’m looking to collaborate on programming, computer building, and worldwide travel.
 - 📫 How to reach me: simplifisteve@gmail.com
 
