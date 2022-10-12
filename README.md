@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @simplifisteve
+- 👋 Hi, I’m Steve!
 - 👀 I’m interested in programming, computers, cars, and travel.
-- 🌱 I’m currently learning Python & Salesforce.
+- 🌱 I’m currently learning Python & SQL for Data Science.
 - 💞️ I’m looking to collaborate on programming, computer building, and worldwide travel.
 - 📫 How to reach me: simplifisteve@gmail.com
 
