@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steve!
 - 🌱 Data Analyst/Scientist with 4+ years in finance and digital marketing.
-- 👀 Skillful but always improving on my Python, SQL, Streamlit, and Power BI skills.
+- 👀 Skillful but always improving on my Python, SQL, and Power BI skills.
 - 💞️ Growth mindset looking to collaborate on machine learning, fintech, and international travel.
 - 📫 How to reach me: simplifisteve@gmail.com
 
