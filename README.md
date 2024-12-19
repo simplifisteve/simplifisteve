@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steve!
-- 🌱 Data Scientist with 5+ years in finance and digital marketing.
-- 👀 Skillful but always improving on my Python, SQL, and JavaScript skills.
+- 🌱 Machine Learning Engineer with 5+ years in finance and digital marketing.
+- 👀 Skillful but always improving on my Python, SQL, and Time-Series Forecasting skills.
 - 💞️ Growth mindset looking to collaborate on machine learning, fintech, and international travel.
 - 📫 How to reach me: simplifisteve@gmail.com
 
