@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steve!
-- 🌱 Machine Learning Engineer with 5+ years in finance and digital marketing.
-- 👀 Skillful but always improving on my Python, SQL, and Time-Series Forecasting skills.
+- 🌱 Data Engineer with 5+ years in finance and digital marketing.
+- 👀 Skillful but always improving on my Python, SQL, AWS, Spark and data analytics skills.
 - 💞️ Growth mindset looking to collaborate on machine learning, fintech, and international travel.
 
 <!---
